@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-15 BZR 4699)-product date = Sat 15 Feb 2014 04:47:11 PM EST
+
+BeginCmp
+TimeStamp = /52FC09B1;
+Reference = IC1;
+ValeurCmp = ATTINY84-P;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FC0A2B;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FC09FF;
+Reference = P1;
+ValeurCmp = CONN_4X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /52FCB051;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Discret:R1;
+EndCmp
+
+EndListe
