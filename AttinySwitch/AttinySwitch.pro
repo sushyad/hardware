@@ -1,6 +1,6 @@
-update=Sat 15 Feb 2014 04:48:37 PM EST
+update=2/17/2014 9:33:51 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [cvpcb]
 version=1
 NetIExt=net
@@ -45,8 +45,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -69,3 +67,5 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [pcbnew/libraries]
 LibDir=
+[general]
+version=1
