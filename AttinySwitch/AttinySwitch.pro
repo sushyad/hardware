@@ -1,11 +1,6 @@
-update=2/21/2014 6:44:55 AM
+update=3/1/2014 1:37:51 PM
 version=1
-last_client=eeschema
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=kicad
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -27,9 +22,30 @@ DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [pcbnew/libraries]
+LibName1=dip_sockets
+LibName2=capacitors
+LibName3=connect
+LibName4=connectors_molex_serial_53047-A123
+LibName5=discret
+LibName6=display
+LibName7=divers
+LibName8=inductors
+LibName9=led
+LibName10=libcms
+LibName11=muonde
+LibName12=pga_sockets
+LibName13=pin_array
+LibName14=powerint
+LibName15=smd_capacitors
+LibName16=smd_crystal&oscillator
+LibName17=smd_dil
+LibName18=smd_resistors
+LibName19=smd_soic_packages
+LibName20=smd_ssop_packages
+LibName21=smd_transistors
+LibName22=sockets
+LibName23=valves
 LibDir=
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -69,3 +85,10 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
+[general]
+version=1
